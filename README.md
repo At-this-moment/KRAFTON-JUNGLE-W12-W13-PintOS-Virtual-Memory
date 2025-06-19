@@ -16,8 +16,7 @@
 
 프로젝트의 발표 영상입니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SJ20J24kUZw?si=3RXpMlgRmtTND1ve" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![Video Label]([https://youtu.be/59USvjy2toI](https://www.youtube.com/watch?v=SJ20J24kUZw))
 ## 기술 스택
 
 * 언어: C
