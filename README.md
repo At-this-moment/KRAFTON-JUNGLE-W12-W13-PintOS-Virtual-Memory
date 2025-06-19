@@ -15,8 +15,8 @@
 ## 발표 영상
 
 프로젝트의 발표 영상입니다.
+https://www.youtube.com/watch?v=SJ20J24kUZw
 
-[![Video Label]([https://youtu.be/59USvjy2toI](https://www.youtube.com/watch?v=SJ20J24kUZw))
 ## 기술 스택
 
 * 언어: C
